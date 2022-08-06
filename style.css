@@ -1,0 +1,33 @@
+body {
+    font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+    font-size: 50px;
+}
+
+.tumi {
+    color: orange;
+}
+
+section {
+    display: flex;
+}
+
+.hhh {
+    width: 50%;
+    padding: 5%;
+}
+
+.hhh img {
+    width: 600px;
+}
+
+.link-button {
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    color: aliceblue;
+    font-weight: bold;
+    padding: 10px 50px;
+    border-radius: 6px;
+}
