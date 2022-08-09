@@ -12,11 +12,12 @@ h1 {
 
 section {
     display: flex;
+    margin-bottom: 100px;
 }
 
 .hhh {
     width: 50%;
-    padding: 5%;
+    padding: 4%;
 }
 
 .hhh img {
@@ -30,4 +31,9 @@ section {
     font-weight: bold;
     padding: 10px 50px;
     border-radius: 6px;
+}
+
+.hhh img {
+    width: 70%;
+    height: 100%;
 }
